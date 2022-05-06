@@ -31,7 +31,7 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [26.085, 44.571111] },
+      "geometry": { "type": "Point", "coordinates": [26.085, 44.5711] },
       "properties": {
         "type": "mid",
         "name": "Henri Coanda",
@@ -39,7 +39,7 @@
         "location": "terminal",
         "gps_code": "LROP",
         "iata_code": "OTP",
-        "wikipedia": "https://en.wikipedia.org/wiki/Henri_Coandă_International_Airport",
+        "wikipedia": "",
         "natlscale": 50
       }
     },
