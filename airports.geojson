@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [36.281667, -94.307778] },
+      "geometry": { "type": "Point", "coordinates": [-94.307778, 36.281667] },
       "properties": {
         "type": "mid",
         "name": "Northwest Arkansas",
@@ -17,7 +17,7 @@
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [10.593056, -85.545556] },
+      "geometry": { "type": "Point", "coordinates": [-85.545556, 10.593056] },
       "properties": {
         "type": "mid",
         "name": "Guanacaste",
