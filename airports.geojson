@@ -3,6 +3,34 @@
   "features": [
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [13.003333, 47.794444] },
+      "properties": {
+        "type": "mid",
+        "name": "Salzburg",
+        "abbrev": "SZG",
+        "location": "terminal",
+        "gps_code": "LOWS",
+        "iata_code": "SZG",
+        "wikipedia": "https://en.wikipedia.org/wiki/Salzburg_Airport",
+        "natlscale": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-78.452778, 38.138611] },
+      "properties": {
+        "type": "mid",
+        "name": "Charlottesville",
+        "abbrev": "CHO",
+        "location": "terminal",
+        "gps_code": "KCHO",
+        "iata_code": "CHO",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlottesville–Albemarle_Airport",
+        "natlscale": 50
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-94.307778, 36.281667] },
       "properties": {
         "type": "mid",
