@@ -31,6 +31,34 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [26.085, 44.571111] },
+      "properties": {
+        "type": "mid",
+        "name": "Henri Coanda",
+        "abbrev": "OTP",
+        "location": "terminal",
+        "gps_code": "LROP",
+        "iata_code": "OTOP",
+        "wikipedia": "https://en.wikipedia.org/wiki/Henri_Coandă_International_Airport",
+        "natlscale": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-48.225278, -18.883611] },
+      "properties": {
+        "type": "mid",
+        "name": "Uberlandia",
+        "abbrev": "UDI",
+        "location": "terminal",
+        "gps_code": "SBUL",
+        "iata_code": "UDI",
+        "wikipedia": "https://en.wikipedia.org/wiki/Uberlândia_Airport",
+        "natlscale": 50
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-4.499167, 36.675] },
       "properties": {
         "type": "mid",
