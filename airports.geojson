@@ -31,6 +31,20 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-4.499167, 36.675] },
+      "properties": {
+        "type": "mid",
+        "name": "Malaga",
+        "abbrev": "AGP",
+        "location": "terminal",
+        "gps_code": "LEMG",
+        "iata_code": "AGP",
+        "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A1laga_Airport",
+        "natlscale": 50
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [39.797222, 47.115858] },
       "properties": {
         "type": "mid",
